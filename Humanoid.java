@@ -3,10 +3,9 @@ public class Humanoid{
     String firstName;
     String lastName;
 
-        public Humanoid(int id, String firstName, String lastName){
-            this.id = id;
-            this.firstName = firstName;
-            this.lastName = lastName;
-        }
-    
+    public Humanoid(int id, String firstName, String lastName){
+        this.id = id;
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
 }
