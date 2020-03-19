@@ -1,6 +1,7 @@
 package BookReaderApp;
 
-public class Admin {
+
+public class Admin extends Humanoid {
     boolean bookReqAcceptance = true ;
 
 
